@@ -1,0 +1,25 @@
+{
+    "name": "City Name",
+    "sys": {
+        "country": "Country Code"
+    },
+    "dt": 1631629899,
+    "timezone": 19800,
+    "weather": [
+        {
+            "main": "Clear",
+            "icon": "01d"
+        }
+    ],
+    "main": {
+        "temp": 25.5,
+        "temp_min": 20.3,
+        "temp_max": 30.8,
+        "feels_like": 26.8,
+        "humidity": 65,
+        "pressure": 1012
+    },
+    "wind": {
+        "speed": 4.5
+    }
+}
